@@ -3,7 +3,7 @@
 ## Description
 In this project we implement a web application that communicates with PocketBase, built up from a mock up in project 2.  
 
-#App Instructions
+# App Instructions
 1. Make sure you are logged in as authenticated Admin user.
 2. Run ```npm install``` after cloning or forking the repository
 3. Run ```npm start``` to start the local server
