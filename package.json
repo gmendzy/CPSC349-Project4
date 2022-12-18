@@ -12,7 +12,6 @@
     "browsersync": "browser-sync http://localhost:8090 --files 'pb_public/**/*'",
     "start": "npm-run-all --parallel tailwind esbuild esbuild-component pocketbase browsersync"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gmendzy/cpsc349-exercise4.git"
