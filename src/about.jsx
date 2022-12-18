@@ -65,7 +65,7 @@ function AboutUs () {
                     Clay Golan
                   </h2>
                   <p className='text-gray-500' style={{ color: 'rgb(0, 119, 255)' }}>
-                    <a href=''>
+                    <a href='https://github.com/ClayKG/CPSC349-Project4'>
                       Github Repo
                     </a>
                   </p>
@@ -87,7 +87,7 @@ function AboutUs () {
                     Geoffrey Mendoza
                   </h2>
                   <p className='text-gray-500' style={{ color: 'rgb(0, 119, 255)' }}>
-                    <a href=''>
+                    <a href='https://github.com/gmendzy/CPSC349-Project4'>
                       Github Repo
                     </a>
                   </p>
@@ -109,7 +109,7 @@ function AboutUs () {
                     Indrajeet Patwardhan
                   </h2>
                   <p className='text-gray-500' style={{ color: 'rgb(0, 119, 255)' }}>
-                    <a href=''>
+                    <a href='https://github.com/Indrajeet2002/CPSC349-Project4'>
                       Github Repo
                     </a>
                   </p>
@@ -131,7 +131,7 @@ function AboutUs () {
                     Nghia Phan
                   </h2>
                   <p className='text-gray-500' style={{ color: 'rgb(0, 119, 255)' }}>
-                    <a href=''>Github Repo</a>
+                    <a href='https://github.com/ptnghia-j/CPSC349-Project4'>Github Repo</a>
                   </p>
                 </div>
               </div>
